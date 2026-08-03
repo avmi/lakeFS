@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.85.0
+
+:new: What's new:
+
+- Adding a country field to the initial setup. (#10513, #10514)
+
 ## v1.84.1
 
 :bug: Bugs Fixed:
